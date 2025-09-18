@@ -1,4 +1,4 @@
-const resumeHref = '/assets/IvanTeixeira.1 .docx.pdf';
+const resumeHref = '/ivan-portfolio/assets/IvanTeixeira-Resume.pdf';
 
 function TopNav() {
   return (
