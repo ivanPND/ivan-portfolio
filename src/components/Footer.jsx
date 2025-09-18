@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <p>2025 Ivan Teixeira</p>
+      <p>© 2025 Ivan Teixeira</p>
     </footer>
   );
 }
