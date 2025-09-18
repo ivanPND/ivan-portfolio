@@ -7,19 +7,19 @@ export const projects = [
     github: 'https://github.com/ivanPND/fyp',
     images: [
       {
-        src: '/assets/images/fyp1.JPG',
+        src: '/ivan-portfolio/assets/images/fyp1.JPG',
         alt: "Behavioural Modelling Toolkit's main menu",
       },
       {
-        src: '/assets/images/fyp2.JPG',
+        src: '/ivan-portfolio/assets/images/fyp2.JPG',
         alt: 'Drift Diffusion Model',
       },
       {
-        src: '/assets/images/fyp3.JPG',
+        src: '/ivan-portfolio/assets/images/fyp3.JPG',
         alt: "Kalman Filter's matrix inputs",
       },
       {
-        src: '/assets/images/fyp4.JPG',
+        src: '/ivan-portfolio/assets/images/fyp4.JPG',
         alt: "DDM's histogram plot",
       },
     ],
@@ -32,19 +32,19 @@ export const projects = [
     github: 'https://github.com/ivanPND/webapps2025',
     images: [
       {
-        src: '/assets/images/was24.JPG',
+        src: '/ivan-portfolio/assets/images/was24.JPG',
         alt: 'Landing page',
       },
       {
-        src: '/assets/images/was25.JPG',
+        src: '/ivan-portfolio/assets/images/was25.JPG',
         alt: 'Transaction history',
       },
       {
-        src: '/assets/images/um9.JPG',
+        src: '/ivan-portfolio/assets/images/um9.JPG',
         alt: 'Pending requests',
       },
       {
-        src: '/assets/images/was27.JPG',
+        src: '/ivan-portfolio/assets/images/was27.JPG',
         alt: 'Admin dashboard',
       },
     ],
@@ -58,19 +58,19 @@ export const projects = [
     github: 'https://github.com/ivanPND/SecurePasswordVault',
     images: [
       {
-        src: '/assets/images/c1.JPG',
+        src: '/ivan-portfolio/assets/images/c1.JPG',
         alt: 'Login page',
       },
       {
-        src: '/assets/images/c10.JPG',
+        src: '/ivan-portfolio/assets/images/c10.JPG',
         alt: 'Hashed password and salt',
       },
       {
-        src: '/assets/images/c6.JPG',
+        src: '/ivan-portfolio/assets/images/c6.JPG',
         alt: 'Empty vault',
       },
       {
-        src: '/assets/images/c9.JPG',
+        src: '/ivan-portfolio/assets/images/c9.JPG',
         alt: 'View password screen',
       },
     ],
@@ -84,19 +84,19 @@ export const projects = [
     github: 'https://github.com/ivanPND/QuickCom',
     images: [
       {
-        src: '/assets/images/ss1.JPG',
+        src: '/ivan-portfolio/assets/images/ss1.JPG',
         alt: 'QuickCom main terminal',
       },
       {
-        src: '/assets/images/ss2.JPG',
+        src: '/ivan-portfolio/assets/images/ss2.JPG',
         alt: 'Inbox view',
       },
       {
-        src: '/assets/images/ss3.JPG',
+        src: '/ivan-portfolio/assets/images/ss3.JPG',
         alt: 'Encrypted message in database',
       },
       {
-        src: '/assets/images/ss4.JPG',
+        src: '/ivan-portfolio/assets/images/ss4.JPG',
         alt: 'Message queueing and SQLite storage',
       },
     ],

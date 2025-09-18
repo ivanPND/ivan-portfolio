@@ -237,7 +237,6 @@ function TargetCursor({ targetSelector = '.cursor-target', hideDefaultCursor = t
       const activeTarget = activeTargetRef.current;
       if (activeTarget) cleanupTarget(activeTarget);
 
-      // Ensure restored
       document.body.style.cursor = originalCursor;
     };
   }, [targetSelector, moveCursor, constants, setCursorVisible, hideDefaultCursor]);
